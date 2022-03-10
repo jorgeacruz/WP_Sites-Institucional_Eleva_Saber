@@ -1,5 +1,5 @@
 # New Institucional Website for Eleva Group
-### After view how was bad structured the website based on wordpress for institucional school's for Saber / Eleva group. I decided make a New Institucional website applying an funcional template. Making easy the life for everybody, to marketing department, Designer's and my life, of course (front-end). 
+### After view how was bad structured the website based on wordpress for institucional school's of Eleva group. I decided make a New Institucional website applying an funcional template. Making easy the life for everybody, to marketing department, Designer's and my life, of course (front-end). 
 ## I did apply this same tecnic to 10 website of this group.
 
 # App's

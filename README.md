@@ -36,3 +36,8 @@
 - All in One Migration
 - Contact Form 7
 and others
+
+# Theme 
+## The Salient <br/>
+(encurtador.com.br/hwEL3)
+

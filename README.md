@@ -37,7 +37,5 @@
 - Contact Form 7
 and others
 
-# Theme 
-## The Salient <br/>
-(https://encurtador.com.br/hwEL3)
+
 
